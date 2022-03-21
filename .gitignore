@@ -94,3 +94,8 @@ hs_err_pid
 replay_pid
 
 # End of httpswww.toptal.comdevelopersgitignoreapijava,eclipse
+
+.classpath
+.project
+.gitignore
+.settings/
